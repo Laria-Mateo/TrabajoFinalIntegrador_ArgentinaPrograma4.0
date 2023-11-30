@@ -5,11 +5,11 @@ import { useToast, Box, Flex, Input, Button, InputRightElement, InputGroup, Text
 
 import Header from './components/Header/header';
 
-import TaskForm from './components/TaskForm/taskForm';
-import TaskHistory from './components/TaskHistory/taskHistory';
+import TaskForm from './components/TaskFormm/taskForm';
+import TaskHistory from './components/TaskHistoryy/taskHistory';
 import history from './history.jpg'
 import lista from './lista.jpg'
-import TaskList from './components/taskList/taskList';
+import TaskList from './components/TaskListt/taskList';
 
 
 
