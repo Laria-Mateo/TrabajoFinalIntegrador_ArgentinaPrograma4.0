@@ -1,7 +1,8 @@
 import React from 'react';
 
 import { Box, Flex } from '@chakra-ui/react';
-import TaskItem from '..TaskItem/taskItem';
+import TaskItem from '../TaskItemm/taskItem';
+
 
 
 
