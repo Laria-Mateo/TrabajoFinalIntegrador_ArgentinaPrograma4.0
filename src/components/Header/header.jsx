@@ -1,5 +1,5 @@
 import { Box, Flex } from '@chakra-ui/react';
-import Titulo from './Titulo.png';
+import Titulo from './Titulo.jpg';
 
 function Header() {
   return (
