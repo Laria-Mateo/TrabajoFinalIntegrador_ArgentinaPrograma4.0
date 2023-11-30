@@ -9,7 +9,8 @@ import TaskForm from './components/taskForm/taskForm';
 import TaskHistory from './components/taskHistory/taskHistory';
 import history from './history.jpg'
 import lista from './lista.jpg'
-import Header from './components/header/header.jsx';
+import Header from './components/Header/header';
+
 
 function App() {
   const initialTasks = JSON.parse(localStorage.getItem('tasks')) || [];
