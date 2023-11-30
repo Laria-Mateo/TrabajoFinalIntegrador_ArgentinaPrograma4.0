@@ -3,13 +3,13 @@ import { useState, useEffect } from 'react';
 
 import { useToast, Box, Flex, Input, Button, InputRightElement, InputGroup, Text, Image, ChakraProvider } from '@chakra-ui/react';
 
-import Header from './components/header/header';
+
 import TaskList from './components/taskList/taskList';
 import TaskForm from './components/taskForm/taskForm';
 import TaskHistory from './components/taskHistory/taskHistory';
 import history from './history.jpg'
 import lista from './lista.jpg'
-
+import Header from './components/header/header';
 
 function App() {
   const initialTasks = JSON.parse(localStorage.getItem('tasks')) || [];
@@ -55,7 +55,7 @@ function App() {
 
   return (
     <ChakraProvider>
-      <Header />
+      <Header/>
 
 
 
