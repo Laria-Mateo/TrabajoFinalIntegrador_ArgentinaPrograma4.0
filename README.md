@@ -8,5 +8,5 @@ Al clonarse repositorio de git es necesario ejecutar en linea de comandos para c
 
 # Integrantes
 
-Mateo Francisco Laria 
+Mateo Francisco Laria, 
 Marcos Roffes
